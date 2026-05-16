@@ -1,0 +1,37 @@
+# কুরআন পাবলিশার — পেজ এডিটর
+
+[✏️ এডিটর](http://localhost/Old%20All/Quran%20Project/quran-publisher/public/editor)
+
+## পেজ তালিকা
+লোড হচ্ছে...
+verses.json পাওয়া যায়নি
+কুরআন লোড হচ্ছে...
+
+### verses.json যোগ করুন
+public/data/verses.json
+
+```
+public/data/verses.json
+```
+
+Canvas এ যেকোনো আরবি বা বাংলা সারিতে ক্লিক করুন
+তারপর ফন্ট, স্পেসিং, রং পরিবর্তন করুন
+Font তৈরি হলে SVG/PDF export-এ symbol গুলো editable <text> element হিসেবে render হবে। ⬇ TTF ডাউনলোড করে FontLab-এ খুলুন — বাকি ১০টি slot পরে যোগ করুন।
+তাজওয়িদ সিম্বল চালু/বন্ধ করুন
+.otf · .ttf ফাইল
+একটি বা একাধিক পেজ SVG (ZIP ছাড়া)। Illustrator-এ সরাসরি edit করা যাবে।
+প্রতিটি পেজে আলাদা layer। Illustrator-এ open করলে Arabic/Bangla text editable থাকবে।
+SVG বা PNG টানুন এখানে
+কোনো asset নেই
+
+```
+TajweedSymbols.ttf
+```
+
+
+```
+page-XXX.svg
+```
+
+লোড হচ্ছে...
+লোড হচ্ছে...
